@@ -1,0 +1,39 @@
+# Data directory
+data/
+catboost_info/
+cohorts/
+eda/
+encoded/
+final/
+linked/
+processed/
+
+# Cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+.env
+*.env
+venv/
+.env/
+
+# Logs
+*.log
+logs/
+
+# Temporary and system files
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+.coverage
+*.coverage
